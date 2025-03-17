@@ -54,5 +54,6 @@ const displayUser = ({
             <p id="userEmail">${useremail}</p>
             <p id="userPhone">${userphone}</p>
             <p id="userWebsite">${userwebsite}</p>
+            <a href="posts.html">Gönderileri Görüntüle</a>
         </div>
     </div>`;
